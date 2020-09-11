@@ -1,0 +1,27 @@
+[
+	{
+		"last_name" : "Bereza",
+		"grade" : 3,
+		"age" : 22
+	},
+	{
+		"last_name" : "Smetana",
+		"grade" : 3,
+		"age" : 20
+	},
+	{
+		"last_name" : "Chorna",
+		"grade" : 2,
+		"age" : 18
+	},
+	{
+		"last_name" : "Bila",
+		"grade" : 1,
+		"age" : 18
+	},
+	{
+		"last_name" : "Smith",
+		"grade" : 4,
+		"age" : 25
+	}
+]
